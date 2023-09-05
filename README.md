@@ -3,5 +3,5 @@
 >
 # Para rodar o projeto localmente:
 ...
- npm install fake faketestes
+node app.js
 ...
